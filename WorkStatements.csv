@@ -1,0 +1,39 @@
+Employee ID,Statement of Work ID,Statement of Work Status
+T1023,SOWT1023,InProgress
+1017,SOW1017,Approved
+1022,SOW1022,Approved
+1020,SOW1020,Approved
+1007,SOW1007,Rejected
+1005,SOW1005,InProgress
+1014,SOW1014,Approved
+1019,SOW1019,Approved
+   ,SOW   ,Approved
+,SOW,Approved
+T1018,SOWT1018,Rejected
+1015,SOW1015,Approved
+1004,SOW1004,Rejected
+1001,SOW1001,Rejected
+1010,SOW1010,InProgress
+1028,SOW1028,Approved
+1026,SOW1026,InProgress
+1009,SOW1009,Approved
+T1024,SOWT1024,Approved
+1025,SOW1025,Approved
+1013,SOW1013,Rejected
+T1021,SOWT1021,Approved
+1016,SOW1016,Approved
+1012,SOW1012,InProgress
+1002,SOW1002,InProgress
+1027,SOW1027,Approved
+1003,SOW1003,InProgress
+1008,SOW1008,Approved
+,SOW,Approved
+   ,SOW   ,Approved
+2001,SOW2001,Rejected
+T2002,SOWT2002,Rejected
+2003,SOW2003,Approved
+2004,SOW2004,Approved
+2005,SOW2005,Approved
+2006,SOW2006,Rejected
+2007,SOW2007,Rejected
+2008,SOW2008,InProgress
